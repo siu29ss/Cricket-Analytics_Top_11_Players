@@ -36,5 +36,3 @@ This project analyzes data from the **T20 Cricket World Cup 2022** to identify t
 
 ---
 
-### Screenshots
-*Include images of your Power BI dashboard and top players' insights here.*
