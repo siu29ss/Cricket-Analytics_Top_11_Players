@@ -26,12 +26,7 @@ This project analyzes data from the **T20 Cricket World Cup 2022** to identify t
 
 ---
 
-### Folder Structure
-```
-├── data/           # Raw and cleaned datasets
-├── notebooks/      # Jupyter notebooks for scraping and cleaning
-├── powerbi/        # Power BI dashboard files
-├── README.md       # Project documentation
+
 ```
 
 ---
